@@ -15,6 +15,7 @@ label {
 }
 
 /* Style the submit button */
+
 input[type=submit] {
   background-color: #04AA6D;
   color: white;
